@@ -23,6 +23,6 @@ To become a professional Full Stack Python Developer and build useful applicatio
 
 ### 📫 Connect With Me
 - GitHub: My GitHub Profile
-- Location: Narasaraopet, Andhra Pradesh, India
+- Location: Piduguralla, Andhra Pradesh, India
 
 Thanks for visiting my profile! 😊
