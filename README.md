@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Gopi Thota 👋
 
-<!--
-**gopithota15-bit/gopithota15-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Python Developer
 
-Here are some ideas to get you started:
+I am passionate about Python development and building real-world web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Python
+- Object-Oriented Programming (OOP)
+- HTML, CSS, JavaScript
+- Django and Flask
+- Bootstrap
+- SQL and MySQL
+- REST API
+- Git & GitHub
+
+### 🚀 My Projects
+- Student Management System
+- Library Management System
+
+### 🎯 Career Goal
+To become a professional Full Stack Python Developer and build useful applications.
+
+### 📫 Connect With Me
+- GitHub: My GitHub Profile
+- Location: Narasaraopet, Andhra Pradesh, India
+
+Thanks for visiting my profile! 😊
